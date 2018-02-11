@@ -93,9 +93,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\e-CommerceWebApp.WebUI\e-CommerceWebApp.WebUI.csproj">
+    <ProjectReference Include="..\e-CommerceWebApp.WebUI\eCommerceWebApp.WebUI.csproj">
       <Project>{324C2697-5270-4F17-A8B4-BCBF344D7865}</Project>
-      <Name>e-CommerceWebApp.WebUI</Name>
+      <Name>eCommerceWebApp.WebUI</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

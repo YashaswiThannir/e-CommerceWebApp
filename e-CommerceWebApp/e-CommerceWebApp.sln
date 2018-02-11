@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e-CommerceWebApp.Core", "e-CommerceWebApp.Core\e-CommerceWebApp.Core.csproj", "{121DB01A-2218-48F3-B6D5-DCD79F5F61E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerceWebApp.Core", "e-CommerceWebApp.Core\eCommerceWebApp.Core.csproj", "{121DB01A-2218-48F3-B6D5-DCD79F5F61E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e-CommerceWebApp.Services", "e-CommerceWebApp.Services\e-CommerceWebApp.Services.csproj", "{AAF6C8B1-4FF5-479D-BAB4-38213E3325BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerceWebApp.Services", "e-CommerceWebApp.Services\eCommerceWebApp.Services.csproj", "{AAF6C8B1-4FF5-479D-BAB4-38213E3325BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e-CommerceWebApp.DataAccess.SQL", "e-CommerceWebApp.DataAccess.SQL\e-CommerceWebApp.DataAccess.SQL.csproj", "{6B8941D4-777B-4AB5-B91B-FD1A04B595A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerceWebApp.DataAccess.SQL", "e-CommerceWebApp.DataAccess.SQL\eCommerceWebApp.DataAccess.SQL.csproj", "{6B8941D4-777B-4AB5-B91B-FD1A04B595A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e-CommerceWebApp.InMemory", "e-CommerceWebApp.InMemory\e-CommerceWebApp.InMemory.csproj", "{9CAC1407-4139-4730-ABD3-320D9D010A7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerceWebApp.DataAccess.InMemory", "e-CommerceWebApp.InMemory\eCommerceWebApp.DataAccess.InMemory.csproj", "{9CAC1407-4139-4730-ABD3-320D9D010A7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e-CommerceWebApp.WebUI", "e-CommerceWebApp.WebUI\e-CommerceWebApp.WebUI.csproj", "{324C2697-5270-4F17-A8B4-BCBF344D7865}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerceWebApp.WebUI", "e-CommerceWebApp.WebUI\eCommerceWebApp.WebUI.csproj", "{324C2697-5270-4F17-A8B4-BCBF344D7865}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e-CommerceWebApp.WebUI.Tests", "e-CommerceWebApp.WebUI.Tests\e-CommerceWebApp.WebUI.Tests.csproj", "{D23EEB85-1725-4245-A8C4-4ADF546AF6C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerceWebApp.WebUI.Tests", "e-CommerceWebApp.WebUI.Tests\eCommerceWebApp.WebUI.Tests.csproj", "{D23EEB85-1725-4245-A8C4-4ADF546AF6C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
